@@ -29,6 +29,7 @@ npm install
 
 ### Para inicializar
 
+Escuta na porta : 3000
 ```
 npm start
 ```
