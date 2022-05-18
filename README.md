@@ -1,4 +1,4 @@
----
+
 ## Tecnologias
 
 - Node.js
@@ -26,6 +26,8 @@ Alguns Endpoints Base deste projeto podem ser extendidos da forma mais adequada 
 ```
 npm install
 ```
+
+---
 
 ### Para inicializar
 
