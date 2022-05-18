@@ -7,7 +7,8 @@
 
 ### Dependências
 
-- express
+- Express
+- Json-server
 ---
 
 Alguns Endpoints Base deste projeto podem ser extendidos da forma mais adequada para seu contexto.
@@ -19,8 +20,6 @@ Alguns Endpoints Base deste projeto podem ser extendidos da forma mais adequada 
 | GET        | `/areas`     |
 
 ---
-
-<br/>
 
 ### Para instalar as dependências
 
